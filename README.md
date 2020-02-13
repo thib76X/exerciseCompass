@@ -2,9 +2,9 @@
 I make a simple app to respond to your assignment.
 
 # Table of contents
-- Why React?
-- Why this structure
-- Why ccs in js?
+- Why React ?
+- Why this structure ?
+- Why ccs in js ?
 - What are the differents points to improve according to me ?
 - Why Material UI?
 - Why Jest?
@@ -12,7 +12,7 @@ I make a simple app to respond to your assignment.
 - Testing part
 - List of my source
 
-# Why React?
+# Why React ?
 I have chosen React, because:
 - I have already used it
 - I like the declarative paradigm of React 
@@ -20,7 +20,7 @@ I have chosen React, because:
 - React is famous
 - React IS JS
 
-# Why this structure
+# Why this structure ?
 Architecture of react project general:
 - src/  
   - assets/
@@ -79,14 +79,14 @@ I have to:
 - make good import with index
 - improve UI (better style)
 - use more jest fonctionnality
-- use some event
+- use some event testing
 
 # Why Material UI?
 I have already used it.
-It pretty good all of their components are linked so can customized the root of the style, then all componenents change (pretty cool).
+It is pretty good, all of their components are linked so we can customized the root of the style, then all componenents change (pretty cool).
 Good doc.
 
-# Why Jest?
+# Why Jest ?
 It was recommanded, i have already used it. Good doc.
 
 # How to launch ?
@@ -97,7 +97,7 @@ then you can launch in your terminal: npx create-react-app my-app
 
 
 this command will install all you need to start your project.
-if i you want more explanation:
+if you want more explanation:
 https://reactjs.org/docs/create-a-new-react-app.html
 
 when you have finished. You must enter in your folder my-app.
@@ -119,7 +119,7 @@ You must run:
   - npm i react-test-renderer  (test)                            IN.........................
   - npm i jest-dom   (test)                                      IN..............
   
-Whe it is done, you run: 
+When it is done, you run: 
  - npm audit fix
  - npm start
  
