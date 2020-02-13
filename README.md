@@ -1,7 +1,7 @@
 # exerciseCompass
 I make a simple app to respond to your assignment.
 
-##Why React?
+# Why React?
 I have chosen React, because:
 - I have already used it
 - I like the declarative paradigm of React 
@@ -9,7 +9,7 @@ I have chosen React, because:
 - React is famous
 - React IS JS
 
-#Why this structure
+# Why this structure
 Architecture of react project general:
   -src/
     -assets/
@@ -53,12 +53,12 @@ I often create a template for my view.
 I often didn't put prop type because I didn't take time to put it.
 I differentiate my views from my components, because components create views. In this app, i was pretty rough, i directly put my code in the main layout, SORRY.
 
-#Why ccs in js?
+# Why ccs in js?
 I prefer the js way because:
 -i keep using js
 -i can not make mistake about my stylefile (take the wrong file)
 
-#What are the differents points to improve according to me ?
+# What are the differents points to improve according to me ?
 I have to:
 - refactor the code
 - add more breakpoint to have better responsiveness
@@ -68,15 +68,15 @@ I have to:
 - make good import with index
 - improve UI (better style)
 
-#Why Material UI?
+# Why Material UI?
 I have already used it.
 It pretty good all of their components are linked so can customized the root of the style, then all componenents change (pretty cool).
 Good doc.
 
-#Why Jest?
+# Why Jest?
 It was recommanded, i have already used it. Good doc.
 
-#How to launch ?
+# How to launch ?
 you must install first: node and npm
 then you can launch in your terminal: npx create-react-app my-app
 this command will install all you need to start your project.
@@ -101,19 +101,21 @@ You must run:
   - npm i react-test-renderer  (test)                            IN.........................
   - npm i jest-dom   (test)                                      IN..............
 
-#List of my source
-- Refactoring Guru
-- Design Pattern Guru
-- Databaseanswer
-- StackOverflow
-- Youtube
-- W3School
-- CSSTrick
-- OpenClassRoom
-- MDN
-- Material UI
-- React Website
-- Symfony Website
-- Medium
+# List of my source
+- Refactoring Guru      https://refactoring.guru/refactoring
+- Design Pattern Guru   https://refactoring.guru/design-patterns
+- Databaseanswer        http://www.databaseanswers.org/
+- StackOverflow         https://stackoverflow.com/
+- Youtube               https://www.youtube.com/
+- W3School              https://www.w3schools.com/
+- CSSTrick              https://css-tricks.com/
+- OpenClassRoom         https://openclassrooms.com/
+- MDN                   https://developer.mozilla.org/
+- Material UI           https://material-ui.com/
+- React Website         https://reactjs.org/
+- Symfony Website       https://symfony.com/
+- Medium                https://medium.com/
+- w3                    https://www.w3.org/
+- php                   https://www.php.net/
 - Other Forum
 - A precious colleague M.TALEB
