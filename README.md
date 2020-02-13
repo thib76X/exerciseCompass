@@ -15,38 +15,38 @@ Architecture of react project general:
   - assets/
     - jss/
      - components/
-          -fictionalComponentStyle.js
-          -etc ....
-        -views/
-          -fictionalViewStyle.js
-          -etc ....
-      -images/
-        -some_images
-    -components/
-      -fictionalComponent/
-        -FictionalComponent.js
-      -templateLayout/
-        -TemplateLayout.js
-      -etc ...
-      -index.js
-    -views/
-      -fictionalViews/
-        -Section/
-          -component_which_only_belong_to_this_view
-        -index.js
-      -etc..
-      -index.js
-    -plugin/
-      -config/
-      -yup
-      -etc ...
-    -store/
-      -reducers/
-      -action/
-    -service/
-      -someCall
-    -App.js
-    -index.js
+          - fictionalComponentStyle.js
+          - etc ....
+        - views/
+          - fictionalViewStyle.js
+          - etc ....
+      - images/
+        - some_images
+    - components/
+      - fictionalComponent/
+        - FictionalComponent.js
+      - templateLayout/
+        - TemplateLayout.js
+      - etc ...
+      - index.js
+    - views/
+      - fictionalViews/
+        - Section/
+          - component_which_only_belong_to_this_view
+        - index.js
+      - etc..
+      - index.js
+    - plugin/
+      - config/
+      - yup
+      - etc ...
+    - store/
+      - reducers/
+      - action/
+    - service/
+      - someCall
+    - App.js
+    - index.js
     
 I PUT SOME index to make cleaner my import.
 I often create a template for my view.
