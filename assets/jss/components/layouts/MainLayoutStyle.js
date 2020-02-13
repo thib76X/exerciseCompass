@@ -1,0 +1,25 @@
+export const styles = {
+    gridContainer:{
+        margin:'0',
+        padding:'0',
+        height:'100vh',
+        width:'100vw',
+    },
+    gridItemHeader:{
+        height:'12%',
+    },
+    gridItemFilter:{
+        height:'78%',
+        padding:'5px',
+        display:'flex',
+        flexDirection:'column',
+        alignItems:'center'
+    },
+    gridItemProduct:{
+        height:'78%',
+        padding:'5px',
+    },
+    gridItemFooter:{
+        height:'10%',
+    }
+}

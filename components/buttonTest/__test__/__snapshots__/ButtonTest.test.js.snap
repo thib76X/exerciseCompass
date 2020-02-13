@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`macthes with snapshot 1`] = `
+<div
+  data-testid="test1"
+>
+  pota
+</div>
+`;
