@@ -55,8 +55,8 @@ I differentiate my views from my components, because components create views. In
 
 # Why ccs in js?
 I prefer the js way because:
--i keep using js
--i can not make mistake about my stylefile (take the wrong file)
+ - i keep using js
+ - i can not make mistake about my stylefile (take the wrong file)
 
 # What are the differents points to improve according to me ?
 I have to:
