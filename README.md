@@ -14,7 +14,7 @@ Architecture of react project general:
 
 
 -src/  
-    -assets/
+                    -assets/
       -jss/
         -components/
           -fictionalComponentStyle.js
