@@ -22,7 +22,7 @@ Architecture of react project general:
           - etc ....
       - images/
         - some_images
-    - components/
+   - components/
       - fictionalComponent/
         - FictionalComponent.js
       - templateLayout/
