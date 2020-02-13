@@ -14,13 +14,13 @@ Architecture of react project general:
 - src/  
   - assets/
     - jss/
-     - components/
+       - components/
           - fictionalComponentStyle.js
           - etc ....
-      - views/
+       - views/
           - fictionalViewStyle.js
           - etc ....
-      - images/
+     - images/
         - some_images
    - components/
       - fictionalComponent/
