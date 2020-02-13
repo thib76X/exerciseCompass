@@ -1,7 +1,7 @@
 # exerciseCompass
 I make a simple app to respond to your assignment.
 
-#Why React?
+##Why React?
 I have chosen React, because:
 - I have already used it
 - I like the declarative paradigm of React 
