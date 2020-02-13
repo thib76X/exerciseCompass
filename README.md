@@ -10,9 +10,8 @@ I have chosen React, because:
 - React IS JS
 
 # Why this structure
-Architecture of react project general:
-  -src/
-     -assets/
+Architecture of react project general:-src/
+-assets/
       -jss/
         -components/
           -fictionalComponentStyle.js
