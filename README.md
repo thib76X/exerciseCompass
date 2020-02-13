@@ -78,7 +78,11 @@ It was recommanded, i have already used it. Good doc.
 
 # How to launch ?
 you must install first: node and npm
+
+
 then you can launch in your terminal: npx create-react-app my-app
+
+
 this command will install all you need to start your project.
 if i you want more explanation:
 https://reactjs.org/docs/create-a-new-react-app.html
