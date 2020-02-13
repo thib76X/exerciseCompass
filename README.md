@@ -11,7 +11,7 @@ I have chosen React, because:
 
 # Why this structure
 Architecture of react project general:
--src/
+  -src/
     -assets/
       -jss/
         -components/
@@ -62,8 +62,8 @@ I prefer the js way because:
 I have to:
 - refactor the code
 - add more breakpoint to have better responsiveness
-- proptype my component
-- give defaultprops for my component
+- proptype my components more
+- give defaultprops for my components more
 - think differently for the sorting algorithm (pretty rough)
 - make good import with index
 - improve UI (better style)
@@ -100,6 +100,10 @@ You must run:
   - npm i @testing-library/react (test)                          IN ..................
   - npm i react-test-renderer  (test)                            IN.........................
   - npm i jest-dom   (test)                                      IN..............
+  
+Whe it is done, you run: 
+ - npm audit fix
+ - npm start
 
 # List of my source
 - Refactoring Guru      https://refactoring.guru/refactoring
