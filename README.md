@@ -67,6 +67,8 @@ I have to:
 - think differently for the sorting algorithm (pretty rough)
 - make good import with index
 - improve UI (better style)
+- use more jest fonctionnality
+- use some event
 
 # Why Material UI?
 I have already used it.
@@ -108,6 +110,13 @@ You must run:
 Whe it is done, you run: 
  - npm audit fix
  - npm start
+ 
+ # Testing part
+ I just create a little component to show you what unit testing look like,
+ I could :
+ - use more jest fonctionnality
+ - use some event
+ - ....
 
 # List of my source
 - Refactoring Guru      https://refactoring.guru/refactoring
