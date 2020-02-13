@@ -1,6 +1,17 @@
 # exerciseCompass
 I make a simple app to respond to your assignment.
 
+# Table of contents
+- Why React?
+- Why this structure
+- Why ccs in js?
+- What are the differents points to improve according to me ?
+- Why Material UI?
+- Why Jest?
+- How to launch ?
+- Testing part
+- List of my source
+
 # Why React?
 I have chosen React, because:
 - I have already used it
@@ -112,6 +123,9 @@ Whe it is done, you run:
  - npm start
  
  # Testing part
+ run: npm test
+ 
+ 
  I just create a little component to show you what unit testing look like,
  I could :
  - use more jest fonctionnality
