@@ -13,8 +13,8 @@ I have chosen React, because:
 Architecture of react project general:
 - src/  
   - assets/
-      -jss/
-        -components/
+    - jss/
+     - components/
           -fictionalComponentStyle.js
           -etc ....
         -views/
