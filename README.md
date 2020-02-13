@@ -1,4 +1,119 @@
 # exerciseCompass
+I make a simple app to respond to your assignment.
 
+#Why React?
+I have chosen React, because:
+- I have already used it
+- I like the declarative paradigm of React 
+- React got a big community
+- React is famous
+- React IS JS
 
-I choose this structure for my folder because i can find easyly what i want.
+#Why this structure
+Architecture of react project general:
+  -src/
+    -assets/
+      -jss/
+        -components/
+          -fictionalComponentStyle.js
+          -etc ....
+        -views/
+          -fictionalViewStyle.js
+          -etc ....
+      -images/
+        -some_images
+    -components/
+      -fictionalComponent/
+        -FictionalComponent.js
+      -templateLayout/
+        -TemplateLayout.js
+      -etc ...
+      -index.js
+    -views/
+      -fictionalViews/
+        -Section/
+          -component_which_only_belong_to_this_view
+        -index.js
+      -etc..
+      -index.js
+    -plugin/
+      -config/
+      -yup
+      -etc ...
+    -store/
+      -reducers/
+      -action/
+    -service/
+      -someCall
+    -App.js
+    -index.js
+    
+I PUT SOME index to make cleaner my import.
+I often create a template for my view.
+I often didn't put prop type because I didn't take time to put it.
+I differentiate my views from my components, because components create views. In this app, i was pretty rough, i directly put my code in the main layout, SORRY.
+
+#Why ccs in js?
+I prefer the js way because:
+-i keep using js
+-i can not make mistake about my stylefile (take the wrong file)
+
+#What are the differents points to improve according to me ?
+I have to:
+- refactor the code
+- add more breakpoint to have better responsiveness
+- proptype my component
+- give defaultprops for my component
+- think differently for the sorting algorithm (pretty rough)
+- make good import with index
+- improve UI (better style)
+
+#Why Material UI?
+I have already used it.
+It pretty good all of their components are linked so can customized the root of the style, then all componenents change (pretty cool).
+Good doc.
+
+#Why Jest?
+It was recommanded, i have already used it. Good doc.
+
+#How to launch ?
+you must install first: node and npm
+then you can launch in your terminal: npx create-react-app my-app
+this command will install all you need to start your project.
+if i you want more explanation:
+https://reactjs.org/docs/create-a-new-react-app.html
+
+when you have finished. You must enter in your folder my-app.
+then you must install some packages because i used some.
+
+You must run:
+  - npm install formik (to make form)                            NOT IN THE PROJECT
+  - npm install yup (validation form)                            NOT ...........
+  - npm install @material-ui/core (ui)                           IN.................
+  - npm install @material-ui/icons (ui)                          IN.....................
+  - npm install redux (general store)                            IN..............
+  - npm install react-redux (general store)                      IN...................
+  - npm install redux-thunk (to make some asynchronous storage)  IN...........
+  - npm install redux-saga (to make some asynchronous storage)   IN...............
+  - npm install axios (make some call)                           NOT IN ..........................
+  - npm i @crello/react-lottie (animation for lottie)            IN .................
+  - npm i @testing-library/react (test)                          IN ..................
+  - npm i react-test-renderer  (test)                            IN.........................
+  - npm i jest-dom   (test)                                      IN..............
+
+#List of my source
+- Refactoring Guru
+- Design Pattern Guru
+- Databaseanswer
+- StackOverflow
+- Youtube
+- W3School
+- CSSTrick
+- OpenClassRoom
+- MDN
+- Material UI
+- React Website
+- Symfony Website
+- Medium
+- Other Forum
+- A precious colleague M.TALEB
