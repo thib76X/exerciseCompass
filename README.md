@@ -11,8 +11,7 @@ I have chosen React, because:
 
 # Why this structure
 Architecture of react project general:
-  -src/
-  
+-src/  
     -assets/
       -jss/
         -components/
