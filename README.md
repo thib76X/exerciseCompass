@@ -102,6 +102,7 @@ https://reactjs.org/docs/create-a-new-react-app.html
 
 when you have finished. You must enter in your folder my-app.
 then you must install some packages because i used some.
+IF YOU WANT TO SEE SOME APPLICATION OF THE DIFFERENT LIBRARIES, you can see them in the project OnlyReactJS/DifferentLibraries
 
 You must run:
   - npm install formik (to make form)                            NOT IN THE PROJECT
