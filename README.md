@@ -17,7 +17,7 @@ Architecture of react project general:
      - components/
           - fictionalComponentStyle.js
           - etc ....
-        - views/
+      - views/
           - fictionalViewStyle.js
           - etc ....
       - images/
